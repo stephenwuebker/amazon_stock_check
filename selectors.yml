@@ -1,0 +1,12 @@
+name:
+    css: 'h1.a-size-large span.a-size-large'
+    xpath: null
+    type: Text
+price:
+    css: 'div.celwidget div.celwidget div.a-section.a-spacing-micro'
+    xpath: null
+    type: Text
+image:
+    css: 'li.image.itemNo0 div.imgTagWrapper'
+    xpath: null
+    type: Image
